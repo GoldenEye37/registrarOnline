@@ -131,5 +131,30 @@ a :hover {
 }
 
 
+/* birth requirements */
+.card-header{
+    text-align: center;
+    background-color: #258312;
+    color: white;
+}
 
+.card{
+    border: none;
+}
 
+.card-div, .card{
+    padding: 0 100px 0 100px;
+}
+
+.card-text{
+    width: 50%;
+    color: red;
+}
+
+.card1{
+    margin-bottom: 2.5rem;
+}
+
+.about{
+    justify-content: right;
+}
